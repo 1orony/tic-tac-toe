@@ -1,20 +1,20 @@
 
 
 ```markdown
-#Jeu de Tic Tac Toe
+Jeu de Tic Tac Toe
 
 Ceci est un projet personnel pour un jeu classique de **Tic Tac Toe** (Jeu de Morpion) que j'ai créé pour tester mes compétences en Python et pygame. Le jeu dispose d'une interface graphique interactive et inclut une Intelligence Artificielle (IA) simple.
 
-## Fonctionnalités
+Fonctionnalités
 
 - Jouez contre un ami ou contre l'IA.
 - IA avec différents niveaux de difficulté.
 - Interface graphique avec pygame.
 - Score et messages de victoire.
 
-## Comment Exécuter
+ Comment Exécuter
 
-1. **Clonez le Référentiel** :
+1. Clonez le Référentiel** :
    ```bash
    git clone https://github.com/votre-utilisateur/tic-tac-toe.git
    ```
@@ -24,17 +24,17 @@ Ceci est un projet personnel pour un jeu classique de **Tic Tac Toe** (Jeu de Mo
    cd tic-tac-toe
    ```
 
-3. **Installez pygame** :
+3. Installez pygame :
    ```bash
    pip install pygame
    ```
 
-4. **Exécutez le Jeu** :
+4. Exécutez le Jeu :
    ```bash
    python main.py
    ```
 
-# Contrôles
+ Contrôles
 
 - Cliquez sur les cellules pour faire votre coup.
 - Raccourcis Clavier :
