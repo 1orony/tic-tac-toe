@@ -1,7 +1,7 @@
 
 
 ```markdown
-# Jeu de Tic Tac Toe
+#Jeu de Tic Tac Toe
 
 Ceci est un projet personnel pour un jeu classique de **Tic Tac Toe** (Jeu de Morpion) que j'ai créé pour tester mes compétences en Python et pygame. Le jeu dispose d'une interface graphique interactive et inclut une Intelligence Artificielle (IA) simple.
 
